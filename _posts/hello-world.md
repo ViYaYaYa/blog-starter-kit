@@ -2,7 +2,7 @@
 title: Hello world
 excerpt:
 coverImage: /assets/blog/hello-world/cover.jpg
-date: 2023-05-23
+date: '2023-05-23'
 author:
   name:
   picture:
